@@ -4,9 +4,6 @@
 ### See https://www.nature.com/articles/s41396-020-0634-2              ###
 ##########################################################################
 
-rm(list=ls())
-
-
 library("ggplot2")
 library("vegan")
 library("ape")
